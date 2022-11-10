@@ -1,0 +1,8 @@
+# Phishing-URLs
+	https://vdzdtv0w41.blob.core.windows.net/24h9sjq014/index.html
+  
+# Emotet Malicious Documents SHA256
+4938ef80579abd3efdb5caa81ccd37648e771dfcd8eb6fb59789faf5c29002d9
+fcdc52a70e95e9e1979db1a9145ca43135ad7b1497a6c62b606989734680cd5d
+eeabaea8e1a978fb94bbb03a4dd20c9259c9a65bdaee42ab5a777ca1ccba27a0
+7ba276ef23853e8a1bc1b32b8fa67ff845d9fa78c2820aa68c4907aead76fd06
